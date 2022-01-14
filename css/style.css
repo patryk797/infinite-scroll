@@ -1,0 +1,10 @@
+body {
+    background-color: aliceblue;
+}
+
+#preloader {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    display: none;
+}
